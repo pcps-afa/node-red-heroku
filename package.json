@@ -7,6 +7,7 @@
         "nano": "~5.11.0",
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
-        "node-red": "~1.x"
+        "node-red": "~1.x",
+        "node-red-contrib-opcua":"~0.2.x"
     }
 }
